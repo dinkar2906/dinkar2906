@@ -14,13 +14,18 @@
 
 ---
 
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinkar2906&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinkar2906&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinkar2906&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinkar2906&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinkar2906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img src="https://streak-stats.demolab.com?user=dinkar2906&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
