@@ -15,19 +15,6 @@
 ---
 
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinkar2906&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinkar2906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=dinkar2906&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## Socials
 
