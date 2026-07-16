@@ -18,6 +18,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinkar2906&theme=tokyonight
 
+not working 😢
+
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinkar-up)
