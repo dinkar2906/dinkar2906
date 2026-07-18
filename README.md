@@ -24,6 +24,7 @@
 <img src="https://streak-stats.demolab.com?user=dinkar2906&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinkar-up)
