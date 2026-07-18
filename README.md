@@ -13,13 +13,17 @@
 - GATE Qualified in both GATE CSE and GATE DA
 
 ---
-
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinkar2906&theme=tokyonight
+<p align="center">
 
-not working 😢
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinkar2906&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinkar2906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img src="https://streak-stats.demolab.com?user=dinkar2906&theme=tokyonight&hide_border=true"/>
+
+</p>
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinkar-up)
