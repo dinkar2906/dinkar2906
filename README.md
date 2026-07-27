@@ -11,7 +11,7 @@
 - Competitive Programming enthusiast
 - Goal: Become a Codeforces Candidate Master
 - GATE Qualified in both GATE CSE and GATE DA
-
+- Network Engineer 
 ---
 
 
