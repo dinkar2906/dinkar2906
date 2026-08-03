@@ -66,13 +66,10 @@ An Android application integrated with a Flask backend that performs facial and 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinkar2906&show_icons=true&hide_border=true" height="170">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinkar2906&hide_border=true" height="170">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinkar2906&layout=compact&hide_border=true">
-</p>
 
 ---
 
